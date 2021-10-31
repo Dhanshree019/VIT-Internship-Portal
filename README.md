@@ -8,7 +8,8 @@
 
 >Live Demo:
 
-https://user-images.githubusercontent.com/55869458/139575779-5f2db2d5-dea9-4f26-8028-9cfdc7e82c52.mp4
+https://user-images.githubusercontent.com/55869458/139576124-8464857b-10a6-4589-b436-efa159270e9b.mp4
+
 
 
 # Admin Pages:
